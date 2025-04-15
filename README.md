@@ -58,4 +58,4 @@ Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na FICR (Facu
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
- ![Snake animation](https://github.com/DiegoHOMoraes/DiegoHOMoraes/blob/output/github-contribution-grid-snake.svg)
+
